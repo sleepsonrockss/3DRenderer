@@ -9,7 +9,6 @@ pure C, vectors, and geometry.
 
 > *Simulated render — three spheres with point lighting, specular highlights, and ground shadows.*
 
-![Sample Render](sample_render.png)
 
 > To generate your own output, build and run the renderer. The result is written
 > as a `.ppm` image file. Convert it to `.png` with:
